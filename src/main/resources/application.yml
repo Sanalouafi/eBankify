@@ -9,6 +9,7 @@ spring:
     show-sql: true
   liquibase:
     enabled: true
-security:
-  user:
-    password: "{bcrypt}"
+    change-log: classpath:db/changelog/db.changelog-master.yaml
+
+server:
+  port: 8081
