@@ -1,4 +1,3 @@
-// src/main/java/com/example/ebankify/domain/Transaction.java
 package com.example.ebankify.model;
 
 import com.example.ebankify.model.enums.TransactionStatus;
