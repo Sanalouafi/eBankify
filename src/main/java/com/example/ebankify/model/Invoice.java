@@ -1,6 +1,6 @@
-package com.example.ebankify.domain;
+package com.example.ebankify.model;
 
-import com.example.ebankify.enums.InvoiceStatus;
+import com.example.ebankify.model.enums.InvoiceStatus;
 import lombok.*;
 
 import jakarta.persistence.*;

@@ -1,6 +1,6 @@
-package com.example.ebankify.domain;
+package com.example.ebankify.model;
 
-import com.example.ebankify.enums.Role;
+import com.example.ebankify.model.enums.Role;
 import lombok.*;
 import jakarta.persistence.*;
 import java.util.Set;

@@ -1,8 +1,8 @@
 // src/main/java/com/example/ebankify/domain/Transaction.java
-package com.example.ebankify.domain;
+package com.example.ebankify.model;
 
-import com.example.ebankify.enums.TransactionStatus;
-import com.example.ebankify.enums.TransactionType;
+import com.example.ebankify.model.enums.TransactionStatus;
+import com.example.ebankify.model.enums.TransactionType;
 import lombok.*;
 
 import jakarta.persistence.*;

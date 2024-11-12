@@ -1,4 +1,4 @@
-package com.example.ebankify.enums;
+package com.example.ebankify.model.enums;
 
 public enum AccountStatus {
     ACTIVE,

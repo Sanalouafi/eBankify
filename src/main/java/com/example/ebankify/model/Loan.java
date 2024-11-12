@@ -1,6 +1,6 @@
-package com.example.ebankify.domain;
+package com.example.ebankify.model;
 
-import com.example.ebankify.enums.LoanStatus;
+import com.example.ebankify.model.enums.LoanStatus;
 import lombok.*;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
