@@ -1,4 +1,3 @@
-// src/main/java/com/example/ebankify/response/ErrorResponse.java
 package com.example.ebankify.response;
 
 import lombok.Data;
